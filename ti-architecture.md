@@ -26,7 +26,7 @@ templates that will make with creating the technical solution.
 TI Templates:
 
 -   [Technical
-    Architecture (MSWORD)](http://www.dot.state.fl.us/ois/PDM/4_Design/Technical%20Architecture.docx).
+    Architecture (MSWORD)](https://fdotwww.blob.core.windows.net/sitefinity/docs/default-source/content/it/pdm/4_design/technical-architecture.docx).
     Template used at US Florida Department of Transportation.
 -   [High-Level Technical
     Design (MSWord)](https://www.cms.gov/research-statistics-data-and-systems/cms-information-technology/xlc/downloads/highlvltechdesign.docx).
